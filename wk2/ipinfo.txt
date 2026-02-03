@@ -1,0 +1,35 @@
+*-.txt
+
+cnn.com
+
+IPv4 addresses
+IPv4 address	Revalidate in
+151.101.131.5	31s
+151.101.67.5	31s
+151.101.3.5	31s
+151.101.195.5	31s
+
+bbc.com IPv4 addresses
+IPv4 address	Revalidate in
+151.101.64.81	1m 38s
+151.101.128.81	1m 38s
+151.101.0.81	1m 38s
+151.101.192.81
+
+apple.com
+IPv4 addresses
+IPv4 address	Revalidate in
+17.253.144.10	5m 50s
+
+reddit.com
+IPv4 addresses
+IPv4 address	Revalidate in
+151.101.1.140	14s
+151.101.65.140	14s
+151.101.193.140	14s
+151.101.129.140	14s
+
+spotify.com
+IPv4 addresses
+IPv4 address	Revalidate in
+35.186.224.24	4m 1s

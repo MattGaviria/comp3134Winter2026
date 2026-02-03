@@ -1,0 +1,14 @@
+ping_1.txt
+
+ping google.com
+
+Pinging google.com [2607:f8b0:4023:1804::64] with 32 bytes of data:
+Reply from 2607:f8b0:4023:1804::64: time=9ms 
+Reply from 2607:f8b0:4023:1804::64: time=10ms 
+Reply from 2607:f8b0:4023:1804::64: time=11ms 
+Reply from 2607:f8b0:4023:1804::64: time=9ms 
+
+Ping statistics for 2607:f8b0:4023:1804::64:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 11ms, Average = 9ms

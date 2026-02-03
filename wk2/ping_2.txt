@@ -1,0 +1,11 @@
+ping_2.txt
+
+root@comp3134-Winter2026:~# ping google.com
+PING google.com (142.250.139.100) 56(84) bytes of data.
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=1 ttl=114 time=2.32 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=2 ttl=114 time=1.80 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=3 ttl=114 time=1.79 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=4 ttl=114 time=1.76 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=5 ttl=114 time=1.74 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=6 ttl=114 time=1.70 ms
+64 bytes from lcyyzb-in-f100.1e100.net (142.250.139.100): icmp_seq=7 ttl=114 time=1.70 ms

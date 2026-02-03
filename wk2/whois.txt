@@ -1,0 +1,160 @@
+whois.txt
+
+google.com
+Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+serverDeleteProhibited
+
+serverTransferProhibited
+
+serverUpdateProhibited
+
+Nameservers:
+NS1.GOOGLE.COM
+
+NS2.GOOGLE.COM
+
+NS3.GOOGLE.COM
+
+NS4.GOOGLE.COM
+
+Dates
+Registry Expiration: 2028-09-14 04:00:00 UTC
+Registrar Expiration: 2028-09-14 07:00:00 UTC
+Updated: 2019-09-09 15:39:04 UTC
+Created: 1997-09-15 04:00:00 UTC
+
+Amazon.com
+
+Name: AMAZON.COM
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+serverDeleteProhibited
+
+serverTransferProhibited
+
+serverUpdateProhibited
+
+Nameservers:
+NS1.AMZNDNS.CO.UK
+
+NS1.AMZNDNS.COM
+
+NS1.AMZNDNS.NET
+
+NS1.AMZNDNS.ORG
+
+NS2.AMZNDNS.CO.UK
+
+NS2.AMZNDNS.COM
+
+NS2.AMZNDNS.NET
+
+NS2.AMZNDNS.ORG
+
+Dates
+Registry Expiration: 2026-10-31 04:00:00 UTC
+Registrar Expiration: 2026-10-31 04:00:00 UTC
+Updated: 2025-07-31 17:49:55 UTC
+Created: 1994-11-01 05:00:00 UTC
+
+Wikipedia.org
+
+Name: wikipedia.org
+Internationalized Domain Name: wikipedia.org
+Registry Domain ID: The RDAP server redacted the value
+Domain Status:
+clientDeleteProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+Nameservers:
+ns0.wikimedia.org : 208.80.154.238
+
+ns1.wikimedia.org : 208.80.153.231
+
+ns2.wikimedia.org : 198.35.27.27
+
+Dates
+Registry Expiration: 2027-01-13 00:12:14 UTC
+Registrar Expiration: 2027-01-13 00:12:14 UTC
+Updated: 2025-12-17 09:26:13 UTC
+Created: 2001-01-13 00:12:14 UTC
+
+Microsoft.com
+Name: MICROSOFT.COM
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+serverDeleteProhibited
+
+serverTransferProhibited
+
+serverUpdateProhibited
+
+Nameservers:
+NS1-39.AZURE-DNS.COM
+
+NS2-39.AZURE-DNS.NET
+
+NS3-39.AZURE-DNS.ORG
+
+NS4-39.AZURE-DNS.INFO
+
+Dates
+Registry Expiration: 2027-05-03 04:00:00 UTC
+Registrar Expiration: 2027-05-03 04:00:00 UTC
+Updated: 2026-01-29 18:46:57 UTC
+Created: 1991-05-02 04:00:00 UTC
+
+Netflix.com 
+
+Name: NETFLIX.COM
+Registry Domain ID: 1404215_DOMAIN_COM-VRSN
+Domain Status:
+clientDeleteProhibited
+
+clientTransferProhibited
+
+clientUpdateProhibited
+
+serverDeleteProhibited
+
+serverTransferProhibited
+
+serverUpdateProhibited
+
+Nameservers:
+NS-1372.AWSDNS-43.ORG
+
+NS-1984.AWSDNS-56.CO.UK
+
+NS-659.AWSDNS-18.NET
+
+NS-81.AWSDNS-10.COM
+
+Dates
+Registry Expiration: 2027-11-10 05:00:00 UTC
+Registrar Expiration: 2027-11-10 05:00:00 UTC
+Updated: 2025-10-09 12:13:44 UTC
+Created: 1997-11-11 05:00:00 UTC
